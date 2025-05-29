@@ -1,0 +1,2 @@
+Olá, a atividade proposta era fazer um "app" financeiro no Excel, porem eu uso o Excel online e não o desktop, portanto não consigo usar algumas ferramentas que ajudariam nesse proposito, e que só estão disponíveis no aplicativo de desktop.
+Foi feito o máximo parecido com os recursos que eu tinha disponível no momento.
